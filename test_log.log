@@ -1,0 +1,19 @@
+2025-07-02 13:16:37,511 - INFO - Test started
+2025-07-02 13:26:03,535 - INFO - Test started
+2025-07-02 13:26:08,362 - INFO - Opened SauceDemo site
+2025-07-02 13:26:08,897 - INFO - Logged in
+2025-07-02 13:26:08,945 - INFO - Assertion passed — on Products page
+2025-07-02 13:26:09,188 - INFO - Screenshot saved at C:/Users/gunas/Downloads/logexcel\products_page.png
+2025-07-02 13:26:13,494 - INFO - Browser closed
+2025-07-02 14:02:31,065 - INFO - Test started
+2025-07-02 14:02:38,932 - INFO - Opened SauceDemo site
+2025-07-02 14:02:39,444 - INFO - Logged in
+2025-07-02 14:02:39,499 - INFO - Assertion passed — on Products page
+2025-07-02 14:02:39,680 - INFO - Screenshot saved at C:/Users/gunas/Downloads/logexcel\products_page.png
+2025-07-02 14:02:44,042 - INFO - Browser closed
+2025-07-02 14:25:59,834 - INFO - Test started
+2025-07-02 14:26:06,854 - INFO - Opened SauceDemo site
+2025-07-02 14:26:07,360 - INFO - Logged in
+2025-07-02 14:26:07,407 - INFO - Assertion passed — on Products page
+2025-07-02 14:26:07,687 - INFO - Screenshot saved at C:/Users/gunas/Downloads/logexcel\products_page.png
+2025-07-02 14:26:11,987 - INFO - Browser closed
